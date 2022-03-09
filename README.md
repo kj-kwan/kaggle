@@ -1,5 +1,5 @@
-# kaggle
-This repository is to share my Kaggle notebooks
+# Kaggle Notebooks
+This repository is to share my Kaggle notebooks and showcase some of my data analytics work.
 
 <hr>
 
