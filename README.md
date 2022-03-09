@@ -4,6 +4,7 @@ This repository is to share my Kaggle notebooks and showcase some of my data ana
 <hr>
 
 # Formula 1 Dream Team
+<a href="https://www.kaggle.com/kevinkwan/the-formula-1-fantasy-dream-team">Click here</a> to visit notebook on kaggle.com
 ## Objective
 As Formula 1 enthusiast, participating in a Formula 1 fantasy league is an entertaining way to keep up with the sport. This dataset is great to see if I will be able to optimize the driver and constructor selections for my Formula 1 fantasy team.
 
