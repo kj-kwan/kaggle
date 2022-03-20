@@ -18,4 +18,3 @@ What this notebook will aim to do:
 * Visualize the trends for optimal fantasy points value
 * Identify the optimal Formula 1 fantasy team week by week to maximize overall fantasy point performance over the course of the season (2021)
 
-<hr>
